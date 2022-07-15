@@ -1,0 +1,363 @@
+{
+  "project_info": {
+    "project_number": "849945570912",
+    "firebase_url": "https://smartparking-a1680.firebaseio.com",
+    "project_id": "smartparking-a1680",
+    "storage_bucket": "smartparking-a1680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849945570912:android:8905bcda9f999d97",
+        "android_client_info": {
+          "package_name": "com.example.iot.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849945570912-gf7jp3rue8o4377kbdno5nm67gr9if8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iot.firebase",
+            "certificate_hash": "05810f82a59c0f319e0141ee3f8d931f5abe96ad"
+          }
+        },
+        {
+          "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tOHkSMuuKekjSeIGBqb2rMXrOpSeai8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849945570912:android:df396b36871905c2",
+        "android_client_info": {
+          "package_name": "com.example.iot.retrieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849945570912-cuglsvrf8vdnerb2qrknhf63equc7e1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iot.retrieve",
+            "certificate_hash": "05810f82a59c0f319e0141ee3f8d931f5abe96ad"
+          }
+        },
+        {
+          "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tOHkSMuuKekjSeIGBqb2rMXrOpSeai8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849945570912:android:93293fa29e1df5f8",
+        "android_client_info": {
+          "package_name": "com.example.mayur.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849945570912-ba998hmhf46j2mgtlds4a9p3jmhrt2mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayur.myapplication",
+            "certificate_hash": "04cad5e8604f00f1323affe3979f84a9f7f284f6"
+          }
+        },
+        {
+          "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tOHkSMuuKekjSeIGBqb2rMXrOpSeai8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849945570912:android:ab0df2cddc505b70",
+        "android_client_info": {
+          "package_name": "com.example.pranav.smartparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849945570912-6q2e1vhq1j1tgcb35kig027g6tf30ugf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pranav.smartparking",
+            "certificate_hash": "935daa7fed7faa79eb7c88fa389fff0ca19b1d6b"
+          }
+        },
+        {
+          "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tOHkSMuuKekjSeIGBqb2rMXrOpSeai8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849945570912:android:f0fdff6e148b2081",
+        "android_client_info": {
+          "package_name": "com.example.preeti.googlemaps1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849945570912-1b08tv0paeojq9nturkn5rotpcg5nggj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.preeti.googlemaps1",
+            "certificate_hash": "0affb0cf7b13ee5ec5b4b6882c9b58245d836960"
+          }
+        },
+        {
+          "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tOHkSMuuKekjSeIGBqb2rMXrOpSeai8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849945570912:android:a5183b4e31a0c6e7",
+        "android_client_info": {
+          "package_name": "com.example.preeti.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849945570912-ut4sfrtinur2a0q26lorsng98l5oksd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.preeti.parking",
+            "certificate_hash": "0affb0cf7b13ee5ec5b4b6882c9b58245d836960"
+          }
+        },
+        {
+          "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tOHkSMuuKekjSeIGBqb2rMXrOpSeai8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849945570912:android:59a2d2c678dcaf18",
+        "android_client_info": {
+          "package_name": "com.example.user.smartparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849945570912-blua79pn5q0i7cnb8jpcbonii45mm8gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.smartparking",
+            "certificate_hash": "0affb0cf7b13ee5ec5b4b6882c9b58245d836960"
+          }
+        },
+        {
+          "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tOHkSMuuKekjSeIGBqb2rMXrOpSeai8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849945570912:android:3a821e4200d85078",
+        "android_client_info": {
+          "package_name": "info.androidhive.recyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849945570912-h3kc466v2jta32adok122g30h49p8g6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.androidhive.recyclerview",
+            "certificate_hash": "935daa7fed7faa79eb7c88fa389fff0ca19b1d6b"
+          }
+        },
+        {
+          "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tOHkSMuuKekjSeIGBqb2rMXrOpSeai8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849945570912-ssva1pmam2laph8mvvlen0l7ebmaobg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
